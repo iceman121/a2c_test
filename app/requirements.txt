@@ -1,0 +1,8 @@
+gym[classic_control]
+pyglet
+numpy
+matplotlib
+tensorflow
+tqdm
+keras
+pyyaml

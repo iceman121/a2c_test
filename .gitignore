@@ -1,0 +1,3 @@
+/app/model/*
+/.idea
+app/src/__pycache__/*
